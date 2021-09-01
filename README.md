@@ -2,15 +2,15 @@
 
 #### 문제 주소
 
-프로그래머스: [주소](https://programmers.co.kr/)
-
-백준: [주소](https://www.acmicpc.net/)
+> 프로그래머스: [주소](https://programmers.co.kr/)
+>
+> 백준: [주소](https://www.acmicpc.net/)
 
 #### 사용 언어
 
-C++
-
-
+> C++
+>
+> 
 
 #### 🐺 기간별 목표
 
