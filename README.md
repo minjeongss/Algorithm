@@ -18,4 +18,6 @@
 > **2020 Winter Vacation**: 프로그래머스 Level 1~Level 2
 >
 > **2021 Summer Vacation** : 브론즈 1~브론즈 5
+>
+> **2022 Summer Vacation** : 실버 1~실버 5
 
